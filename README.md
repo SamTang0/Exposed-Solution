@@ -198,8 +198,7 @@
 
 ## 📬 联系作者
 
-- GitHub: [@yourusername](https://github.com/yourusername)  
-- 安全交流群: [点击加入](https://t.me/yourgroup)  
+- GitHub: [@SamTang0](https://github.com/SamTang0)  
 - 如果你在企业落地中遇到具体问题，欢迎提 Issue 讨论。
 
 **⭐ 如果这个仓库对你有帮助，请点亮右上角的 Star，谢谢！**
